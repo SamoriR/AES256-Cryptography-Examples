@@ -1,0 +1,3 @@
+"AES was developed in response to the needs of the U.S. government. In 1977, federal agencies relied on the Data Encryption Standard (DES) as their encryption algorithm. DES was created by IBM with a 56-bit symmetric-key block cipher design and was used successfully for close to 20 years. By the 1990s, it was clear that DES was no longer sufficiently secure. In one public demonstration, distributed.net and the Electronic Frontier Foundation showed that they could break a DES key in only 22 hours. Per Moore’s Law, increased computing power meant that a 56-bit system was woefully inadequate against brute force attacks. A more sophisticated encryption standard was urgently needed."
+
+Referenced from -> https://www.n-able.com/blog/aes-256-encryption-algorithm
